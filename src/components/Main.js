@@ -2,6 +2,7 @@ import PropTypes from 'prop-types'
 import React from 'react'
 import about from '../images/about.jpg'
 import contact from '../images/contact.jpg'
+import Githubicon from '../images/GitHub-icon.jpg'
 
 class Main extends React.Component {
   render() {
@@ -59,7 +60,7 @@ class Main extends React.Component {
             <img src={contact} alt="" />
           </span>
           <p>
-      <a href="mailto:christophpaltzer@gmail.com">christophpaltzer@gmail.com</a>
+      <a href="mailto:christophpaltzer@gmail.com"><img src={Githubicon} alt="" /></a>
       
       </p>
       <p>
