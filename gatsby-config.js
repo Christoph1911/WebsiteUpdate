@@ -1,16 +1,16 @@
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby Starter - Dimension V2',
-    author: 'Hunter Chang',
-    description: 'A Gatsby.js V2 Starter based on Dimension by HTML5 UP',
+    title: 'Christoph Paltzer',
+    author: 'Christoph Paltzer',
+    description: 'Christoph Paltzer',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'gatsby-starter-default',
-        short_name: 'starter',
+        name: 'Christoph Paltzer',
+        short_name: 'Christoph Paltzer',
         start_url: '/',
         background_color: '#663399',
         theme_color: '#663399',
