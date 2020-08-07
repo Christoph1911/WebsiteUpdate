@@ -2,7 +2,7 @@ import PropTypes from 'prop-types'
 import React from 'react'
 import about from '../images/about.jpg'
 import contact from '../images/contact.jpg'
-import Githubicon from '../images/GitHub-icon.jpg'
+import Githubicon from '../images/GitHub-icon.png'
 
 class Main extends React.Component {
   render() {
