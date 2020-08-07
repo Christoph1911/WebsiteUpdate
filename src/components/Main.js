@@ -68,7 +68,7 @@ class Main extends React.Component {
           {close}
         </article>
       </div>
-    ) style={{ display: 'none' }}
+    )
   }
 }
 
