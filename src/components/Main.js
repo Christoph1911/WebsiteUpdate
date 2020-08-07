@@ -62,13 +62,13 @@ class Main extends React.Component {
             <img src={contact} alt="" />
           </span>
           <p>
-      <a href="mailto:christophpaltzer@gmail.com" style={{margin-left: 100px}} ><img src={Mailicon} alt="" /></a>
-      <a href="https://github.com/Christoph1911" style={{margin-right: 100px}} ><img src={Githubicon} alt="" /></a>
+      <a href="mailto:christophpaltzer@gmail.com" style={{margin: 0px 0px 0px 100px}} ><img src={Mailicon} alt="" /></a>
+      <a href="https://github.com/Christoph1911" style={{margin: 0px 100px 0px 0px}} ><img src={Githubicon} alt="" /></a>
       </p>
           {close}
         </article>
       </div>
-    )
+    ) style={{ display: 'none' }}
   }
 }
 
