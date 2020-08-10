@@ -61,11 +61,11 @@ class Main extends React.Component {
           <span className="image main">
             <img src={contact} alt="" />
           </span>
-          <p>
-      <a href="mailto:christophpaltzer@gmail.com" style={{marginLeft: 50}} ><img src={Mailicon} alt="" /></a>
-      <a href="https://github.com/Christoph1911" style={{marginRight: 100}} ><img src={Githubicon} alt="" /></a>
-      </p>
-          {close}
+          <nav> 
+            <a href="mailto:christophpaltzer@gmail.com" style={{margin: 100}}><img src={Mailicon} alt="" /></a>
+            <a href="https://github.com/Christoph1911" style={{margin: 100}}><img src={Githubicon} alt=""/></a> 
+            </nav>
+          {close}  
         </article>
       </div>
     )
