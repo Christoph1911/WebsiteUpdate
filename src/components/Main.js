@@ -5,7 +5,6 @@ import contact from '../images/contact.jpg'
 import Githubicon from '../images/github.png'
 import Mailicon from '../images/email.png'
 
-
 class Main extends React.Component {
   render() {
     let close = (
@@ -61,11 +60,11 @@ class Main extends React.Component {
           <span className="image main">
             <img src={contact} alt="" />
           </span>
-          <nav> 
+          <p> 
             <a href="mailto:christophpaltzer@gmail.com" style={{margin: 100}}><img src={Mailicon} alt="" /></a>
             <a href="https://github.com/Christoph1911" style={{margin: 100}}><img src={Githubicon} alt=""/></a> 
-            </nav>
-          {close}  
+          </p>
+          {close}
         </article>
       </div>
     )
