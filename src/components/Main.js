@@ -39,7 +39,8 @@ class Main extends React.Component {
         I've done a one week internship at <a href="https://flowkey.breezy.hr">flowkey</a>, a startup in Berlin, where I learned to build this website and other things.
       </p>
       <p>
-        I'm interested in programming and have tried a few different programming languages: C#, Java, Javascript, Python. I got into programming in school, where I started eperimenting with the Arduino.
+        I'm interested in programming and have tried a few different programming languages: C#, Java, Javascript, Python. I got into programming in school, where I started eperimenting with the Arduino. 
+        Lately I have gotten into game development. <a href="https://christoph191103.itch.io">Here</a> you can have a look.
         Other hobbys are Karate, playing the saxophone and chess. 
       </p>
       <p>
