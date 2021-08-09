@@ -45,7 +45,7 @@ class Main extends React.Component {
       </p>
       <p>
         Other hobbys of mine are table tennis, Karate, playing the saxophone and chess.
-        I also enjoy is speedcubing. You try to solve the Rubik's cube and other puzzles as quickly as possible. Competitions are held all over the world.
+        I also enjoy is speedcubing. You try to solve the Rubik's cube and other puzzles as quickly as possible. Competitions are held all over the world. 
         <a href="https://www.worldcubeassociation.org/persons/2017PALT01">Here</a> you can view my WCA profile.
       </p>
           {close}
