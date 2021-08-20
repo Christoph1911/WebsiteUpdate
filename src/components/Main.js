@@ -39,13 +39,13 @@ class Main extends React.Component {
         I also built this website, learned the basics of GitHub and other things.
       </p>
       <p>
-        I'm interested in programming and have tried a few different programming languages: C#, Java, Javascript, Python. I got into programming in school in the 8th grade, where I started eperimenting with the Arduino.
+        I'm interested in programming and have tried a few different programming languages: C#, Java, Javascript, Python. I got into programming in school in the 8th grade, where I started experimenting with the Arduino.
         In the 11th grade I learned the basics of Java.
         Lately I've had a lot of fun with game development. <a href="https://christoph191103.itch.io">Here</a> you can have a look at a little game I created with C# and Unity.
       </p>
       <p>
         Other hobbys of mine are table tennis, Karate, playing the saxophone and chess.
-        I also enjoy is speedcubing. You try to solve the Rubik's cube and other puzzles as quickly as possible. Competitions are held all over the world. <a href="https://www.worldcubeassociation.org/persons/2017PALT01">Here</a> you can view my WCA profile.
+        I also enjoy speedcubing. You try to solve the Rubik's cube and other puzzles as quickly as possible. Competitions are held all over the world. <a href="https://www.worldcubeassociation.org/persons/2017PALT01">Here</a> you can view my WCA profile.
       </p>
           {close}
         </article>
