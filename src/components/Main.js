@@ -62,7 +62,7 @@ class Main extends React.Component {
             <img src={about} alt="" />
           </span>
           <p>
-            Here I am documenting my projects.
+            Here I document my projects.
       </p>
           {close}
         </article>
