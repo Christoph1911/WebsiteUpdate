@@ -58,9 +58,6 @@ class Main extends React.Component {
           style={{ display: 'none' }}
         >
           <h2 className="major">Projects</h2>
-          <span className="image main">
-            <img src={about} alt="" />
-          </span>
           <p>
             Here I document my projects.
       </p>
