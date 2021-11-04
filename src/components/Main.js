@@ -36,7 +36,7 @@ class Main extends React.Component {
           <p>
         Currently I'm in high school in Germany and go in the 12th grade.
         I've done a one week internship at <a href="https://flowkey.breezy.hr">flowkey</a>, a startup in Berlin, in the development department. It gave me a detailed insight into the professional field of a software engineer.
-        I also built this website, learned the basics of GitHub and other things.
+        I also built this website, learned the basics of machine learning and other things.
       </p>
       <p>
         I'm interested in programming and have tried a few different programming languages: C#, Java, Javascript, Python. I got into programming in school in the 8th grade, where I started experimenting with the Arduino.
