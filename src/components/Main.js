@@ -59,7 +59,9 @@ class Main extends React.Component {
         >
           <h2 className="major">Projects</h2>
           <p>
-            Here I document my projects.
+            <p>
+              Here I blog about my projects.
+            </p>
             <p>
               [Sunday, 27.02.2022, 22:30]:
               This evening I decided to start a new project. I was interested databases and APIs. So I came up with the idea of a website where I can access all my recipes on my cooking journey and always find something to eat.
