@@ -64,7 +64,7 @@ class Main extends React.Component {
             </p>
             <p>
               <p>
-              [Sunday, 27.02.2022, 22:30]:
+                [Sunday, 27.02.2022, 22:30]:
               </p>
               This evening I decided to start a new project. I was interested databases and APIs. So I came up with the idea of a website where I can access all my recipes on my cooking journey and always find something to eat.
               I want it to be very convenient, so I will focus on a good mobile website with great search and calculating funktions.
