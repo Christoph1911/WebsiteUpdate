@@ -60,13 +60,13 @@ class Main extends React.Component {
           <h2 className="major">Projects</h2>
           <p>
             Here I document my projects.
-            
-            [Sunday, 27.02.2022, 22:30]:
-            This evening I decided to start a new project. I was interested databases and APIs. So I came up with the idea of a website where I can access all my recipes on my cooking journey and always find something to eat.
-            I want it to be very convenient, so I will focus on a good mobile website with great search and calculating funktions.
-
-            First I will try to create a database with PostgreSQL. Then I will focus on the website and an API.
-            Let's see how it gows, the next week I have one week school-holiday(Faschingsferien), but during the day I will study for my final exam (Abitur). I will try to work on this project in the evening.
+            <p>
+              [Sunday, 27.02.2022, 22:30]:
+              This evening I decided to start a new project. I was interested databases and APIs. So I came up with the idea of a website where I can access all my recipes on my cooking journey and always find something to eat.
+              I want it to be very convenient, so I will focus on a good mobile website with great search and calculating funktions.
+              First I will try to create a database with PostgreSQL. Then I will focus on the website and an API.
+              Let's see how it gows, the next week I have one week school-holiday(Faschingsferien), but during the day I will study for my final exam (Abitur). I will try to work on this project in the evening.
+            </p>
       </p>
           {close}
         </article>
