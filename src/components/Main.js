@@ -63,6 +63,11 @@ class Main extends React.Component {
               Here I blog about my projects.
             </p>
             <p>
+              [Friday, 04.03.2022, 17:33]:<br />I installed PostreSQL with the help of this <a href="https://www.youtube.com/watch?v=-LwI4HMR_Eg">video</a>
+              and created a table with the help of this <a href="https://www.youtube.com/watch?v=RySuQtMiBxQ">video</a>.
+              <br />
+            </p>
+            <p>
               [Friday, 04.03.2022, 15:33]:<br />I've been quite busy, but today I managed to finish a table with some dishes for my database.
               Now I will try to create a database with PostreSQL and enter my recipes.
               <br />
