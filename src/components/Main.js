@@ -63,6 +63,11 @@ class Main extends React.Component {
               Here I blog about my projects.
             </p>
             <p>
+              [Saturday, 05.03.2022, 10:30]:<br />I installed pgAdmin4, a management tool for PostreSQL, with the help of their <a href="https://www.pgadmin.org/download/pgadmin-4-apt/">website </a>,
+              but then decided to rather use the command line instead of a GUI.
+              <br />
+            </p>
+            <p>
               [Friday, 04.03.2022, 17:33]:<br />I installed PostreSQL with the help of this <a href="https://www.youtube.com/watch?v=-LwI4HMR_Eg">video </a>
               and created a table with the help of this <a href="https://www.youtube.com/watch?v=RySuQtMiBxQ">video</a>.
               <br />
