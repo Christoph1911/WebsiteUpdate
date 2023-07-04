@@ -29,7 +29,7 @@ const Header = props => (
             About
           </button>
         </li>
-        <!--
+        /*
         <li>
           <button
             onClick={() => {
@@ -39,7 +39,7 @@ const Header = props => (
             Projects
           </button>
         </li>
-        -->
+        */
         <li>
           <button
             onClick={() => {
