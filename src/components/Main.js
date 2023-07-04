@@ -34,7 +34,7 @@ class Main extends React.Component {
             <img src={about} alt="" />
           </span>
           <p>
-        I will start studying physics in the coming wintersemester.
+        I will start studying physics in the coming wintersemester in Heidelberg.
         I've done a one week internship at <a href="https://flowkey.breezy.hr">flowkey</a>, a startup in Berlin, in the development department. It gave me a detailed insight into the professional field of a software engineer.
         I also built this website, learned the basics of machine learning and other things.
       </p>
